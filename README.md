@@ -1,4 +1,4 @@
 # social80s
 ### Development will start soon.
-> #### Project Discription
+> #### Project Description
 >A terminal based social networking platform.
